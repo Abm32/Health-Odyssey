@@ -1,0 +1,10 @@
+__pycache__/
+env/
+logs/
+sites/*/private/*
+sites/*/assets/*
+*.pyc
+*.pyo
+*.pyd
+*.sqlite
+*.log
