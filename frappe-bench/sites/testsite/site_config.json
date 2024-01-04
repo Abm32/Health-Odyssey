@@ -1,5 +1,6 @@
 {
  "db_name": "_d27bb860d88d2906",
  "db_password": "u1yINFmbPE4UAAsw",
- "db_type": "mariadb"
+ "db_type": "mariadb",
+ "developer_mode":1
 }
