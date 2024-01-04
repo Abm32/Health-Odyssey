@@ -6,13 +6,13 @@
         },
         "required": [],
         "idx": 1,
-        "version": "16.0.0-dev"
+        "version": "14.62.1"
     },
-    "library_management": {
+    "mysite": {
         "is_repo": true,
         "resolution": {
-            "commit_hash": "7edac6559ff9aaf5d1cbfa470c052af90abbcffb",
-            "branch": "develop"
+            "commit_hash": "4fd0cdaaf2e26891427c260c12949aac3aad3ad5",
+            "branch": "master"
         },
         "required": [],
         "idx": 2,

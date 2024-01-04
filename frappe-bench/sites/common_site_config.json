@@ -1,8 +1,8 @@
 {
  "background_workers": 1,
  "file_watcher_port": 6787,
- "frappe_user": "vboxuser",
- "gunicorn_workers": 9,
+ "frappe_user": "ami",
+ "gunicorn_workers": 33,
  "live_reload": true,
  "rebase_on_pull": false,
  "redis_cache": "redis://127.0.0.1:13000",
